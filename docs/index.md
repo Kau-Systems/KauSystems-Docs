@@ -1,11 +1,2 @@
-layout: page
-title: "Home"
-permalink: /home/
-
-# Kau Systems
-
-
-
-
-## Contens
-- Deafault Setup
+# Content
+[test](test.md)
