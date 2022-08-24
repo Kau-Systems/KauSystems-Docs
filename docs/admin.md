@@ -1,6 +1,13 @@
+### Table of Contents
+- [home](index.md)
+- [admin (feature category)](admin.md)
+
+<br><br><br><br>
+
+
 # Admin (feature category)
 
-### Table of Contents
+### Content
 - [admin moderation](#admin-moderation)
 - [editConfig](#editConfig)
 - [displayConfig](#displayConfig)
