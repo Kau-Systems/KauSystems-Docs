@@ -1,2 +1,2 @@
-# Content
-[test](test.md)
+### Table of Contents
+- [admin (feature category)](admin.md)

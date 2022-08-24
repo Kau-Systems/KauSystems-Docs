@@ -1,4 +1,4 @@
-# Fnc Category ADMIN
+# Admin (feature category)
 
 ### Table of Contents
 - [admin moderation](#admin_moderation)
@@ -10,7 +10,7 @@
 - [createTicketPanel](#createTicketPanel)
 - [announcmentMsg](#announcmentMsg)
 
-
+<br><br>
 
 ## __admin moderation__
 ```
