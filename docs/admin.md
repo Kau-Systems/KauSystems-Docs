@@ -1,7 +1,7 @@
 # Admin (feature category)
 
 ### Table of Contents
-- [admin moderation](#admin_moderation)
+- [admin moderation](#admin-moderation)
 - [editConfig](#editConfig)
 - [displayConfig](#displayConfig)
 - [resetConfig](#resetConfig)
